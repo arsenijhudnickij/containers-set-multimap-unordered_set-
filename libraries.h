@@ -1,0 +1,13 @@
+#pragma once
+#include <iostream>
+#include <string>
+#include <vector>
+#include <windows.h>
+#include <fstream>
+#include <stdlib.h>
+#include <conio.h>
+#include <iomanip>
+#include <Windows.h>
+#include <set>
+#include <map>
+#include <unordered_set>
